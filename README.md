@@ -3,7 +3,7 @@ Build Your Own Blockchain...
 
 ### Build your own blockchain competition
 
-Using the free Material Kit (http://demos.creative-tim.com/material-kit/index.html) or any other tool you want, you will have to build something like this: https://blockchaindemo.io.
+Using any tools you want, you will have to build something like this: https://blockchaindemo.io. If you need a little bit of help, you can use [this free UI kit](http://demos.creative-tim.com/material-kit/index.html)
 
 Looks difficult? Don't worry, being a developer is all about making small steps towards the end goal. Along the way, you will learn about the Blockchain Data Structure and have another project to put into your portfolio. 
 
