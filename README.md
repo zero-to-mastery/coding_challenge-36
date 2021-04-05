@@ -1,7 +1,7 @@
 # coding_challenge-36
 Build Your Own Blockchain...
 
-### Build your own blockchain competition
+### Build your own blockchain:
 
 Using any tools you want, you will have to build something like this: https://blockchaindemo.io. If you need a little bit of help, you can use [this free UI kit](http://demos.creative-tim.com/material-kit/index.html)
 
