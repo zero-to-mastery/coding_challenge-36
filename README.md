@@ -26,7 +26,29 @@ The rest is up to you to research and figure out. Use this as a challenge to lea
 
 Student Submissions will be posted here at the end of the challenge:
 
+@wolf  Submission: https://nilanshu96.github.io/blockchain-demo/
 
+@Dillon  Submission: https://dillon-mc.github.io/blockchain-demo/
+
+@Nick Coding  Submission: https://fierce-brook-50519.herokuapp.com/ 
+
+@Caleb Coding  Submission: https://calebyates.github.io/blockchain-demo/
+
+@sakht Launda Coding  Submission: https://hgautam2010.github.io/Blockchain/ 
+
+@Brendon Coding  Submission: https://roguelearg.github.io/rogue-ztm-challenge/ 
+
+@George Txr Coding  Submission: https://george-taxiarchou.github.io/nodechain/
+
+@mdr Coding  Submission:https://markradomski.github.io/blockchain/ 
+
+@Sdeagh Coding  Submission: https://sdeagh.github.io/blockchaindemo/ 
+
+@Andrei Kovalev Coding  Submission: https://turtleflyer.github.io/blockchain_demo/index.html 
+
+@AngieHM Coding  Submission: https://angiehm.github.io
+
+@Rohan Coding  Submission: https://fakestarter.herokuapp.com/ 
 
 ## One Last Thing!
 
